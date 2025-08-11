@@ -11,9 +11,8 @@ Quantum Explorers
 
 | Name           | WISER Enrollment ID  |
 |----------------|----------------------|
-| Alice Sharma   | WISER12345           |
-| Bob Kumar      | WISER67890           |
-| Charlie Rao    | WISER54321           |
+| Devadharshika S S  | gst-7CWPlorG4OfGHMn           |
+| Keerthika Devi S   | gst-p8AhzHiFeEuwMmR|
 
 ---
 
